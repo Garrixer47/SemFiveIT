@@ -1,0 +1,28 @@
+Adjacency Matrix_ Supporting material
+Note: In continuation with class on adjacency matrix, 
+go through following contents.
+1)   
+Add and Remove Vertex in
+Adjacency Matrix Representation of Graph
+
+
+https://www.tutorialspoint.com/add-and-remove-vertex-in-adjacency-matrix-representation-of-graph 
+
+
+ 
+
+2)   
+Add and Remove Edge in Adjacency
+List Representation of Graph
+
+
+https://www.tutorialspoint.com/add-and-remove-edge-in-adjacency-list-representation-of-graph 
+
+
+ 
+
+3)   
+Convert Adjacency Matrix to
+Adjacency List Representation of Graph
+
+https://www.tutorialspoint.com/convert-adjacency-matrix-to-adjacency-list-representation-of-graph
